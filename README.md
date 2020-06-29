@@ -14,10 +14,10 @@
 * 文章模板：blog.io/_posts/2015-03-02-how-to-write.md 
 * 
 
-## 模板作者
+## 博客作者
 
-陈素封，博客：独立写生：[cnfeat.com](cnfeat.com)
+图书馆服务日志 博客：[www.yunduoai.cn](www.yunduoai.cn)
 
-联系方式：cnfeat@gmail.com
+联系方式：15829719226
 
 

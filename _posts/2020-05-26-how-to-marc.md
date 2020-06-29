@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 陕西西安图书编目加工现状
-date: 2015-3-02
+date: 2020-5-06
 categories: blog
 tags: [西安,编目，RFID]
 description: 文章金句。
